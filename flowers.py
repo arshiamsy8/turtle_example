@@ -28,4 +28,6 @@ for j in range(4) :
         right(20)
         left(9)
 
+print("hi")
+
 done()
